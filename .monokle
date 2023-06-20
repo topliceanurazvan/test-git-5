@@ -13,6 +13,7 @@
     ],
     "folderReadsMaxDepth": 10,
     "k8sVersion": "1.26.3",
+    "helm": {},
     "settings": {
         "helmPreviewMode": "template",
         "kustomizeCommand": "kubectl",
